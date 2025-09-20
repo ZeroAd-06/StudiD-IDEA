@@ -1,9 +1,21 @@
 # StupiD IDEA
 
-欢迎来到 StupiD IDEA，一个专为处理古怪、混合语言的“傻瓜”代码而设计的另类代码编辑器。
+似乎什么代码都可以运行的IDE。
 
-## 简介
+## 写在前面
 
+这本来只是我突发奇想，为了做一个短视频 Vibe Coding 出来的神秘玩意，但是居然真的有很多人想要，实在是受宠若惊，现在在此开源它，以兑现我简介中的承诺。
+
+另，如果你不知为何没有观看那个视频就来到了这里，欢迎观看 [无论写出怎么样的代码似乎都能运行的IDE](https://www.bilibili.com/video/BV1j7WTztE1y) ，顺便给我点个关注投个币，给项目点个 star 之类的。
+
+## 这是什么以及如何使用
+
+看起来像是 IDE 的某种存在，想知道更多的话就去看[那个视频](https://www.bilibili.com/video/BV1j7WTztE1y)，或者继续往下看吧。
+
+在线使用请点 [这里](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221RfIsu4_VFMNhlk4yqBD6jHcF_7VFWNG1%22%5D,%22action%22:%22open%22,%22userId%22:%22117097528231830909733%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing) ，因为我没有钱，所以需要你自备谷歌账号登录 AI Studio，而没有一个更像网站的链接。
+
+要自己部署的话，基本上，按照标准的 React 应用来就可以，要了解更多，请看它帮我生成的自述文件。
+````
 你是否曾经想用一种混合了 Python、JavaScript 甚至中文的代码来表达你的逻辑？StupiD IDEA 让这成为可能！它利用强大的人工智能，不仅能理解你那不拘一格的代码风格，还能将其转换为可执行的 JavaScript 代码。
 
 ## 核心功能
@@ -30,3 +42,8 @@
 ---
 
 享受用最“愚蠢”的方式编写代码的乐趣吧！
+````
+
+## License
+
+项目基于 [MIT](LICENSE) 许可证开源。
