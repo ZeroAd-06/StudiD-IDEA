@@ -1,0 +1,5 @@
+{
+  "name": "StupiD IDEA",
+  "description": "A quirky code editor designed for bizarre and mixed-language code. It uses AI to provide syntax highlighting and to compile and run the 'stupid' code by translating it into valid JavaScript.",
+  "requestFramePermissions": []
+}

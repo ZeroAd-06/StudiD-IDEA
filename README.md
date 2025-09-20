@@ -1,11 +1,32 @@
-<div align="center">
+# StupiD IDEA
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+欢迎来到 StupiD IDEA，一个专为处理古怪、混合语言的“傻瓜”代码而设计的另类代码编辑器。
 
-  <h1>Built with AI Studio</h2>
+## 简介
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+你是否曾经想用一种混合了 Python、JavaScript 甚至中文的代码来表达你的逻辑？StupiD IDEA 让这成为可能！它利用强大的人工智能，不仅能理解你那不拘一格的代码风格，还能将其转换为可执行的 JavaScript 代码。
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## 核心功能
 
-</div>
+*   **AI 驱动的语法高亮**: 编辑器使用 Gemini AI 模型来实时分析你的“傻瓜”代码，并为其提供智能的语法高亮，即使代码充满了拼写错误和混合语法。
+*   **智能编译与执行**: 只需点击“运行”按钮，后端 AI 就会将你的代码“编译”成标准的、可运行的 JavaScript。
+*   **即时反馈**: 编译和运行的结果会立刻显示在下方的集成终端中，无论是代码的输出还是运行时错误。
+*   **高度可配置**: 你可以在设置中更改用于语法高亮和代码编译的 AI 模型，以及调整其他性能相关的参数。
+
+## 如何使用
+
+1.  **编写代码**: 在编辑器中自由地编写你的“傻瓜”代码。可以尝试混合不同的语法，或者故意制造一些拼写错误。
+2.  **运行代码**: 点击顶部工具栏的“Run”按钮。
+3.  **查看结果**: 在下方的终端窗口中查看代码的输出。
+
+## 环境配置
+
+为了使本应用正常工作，你需要设置一个 Google Gemini API 密钥。
+
+*   请将你的 API 密钥设置为名为 `API_KEY` 的环境变量。
+
+应用启动时会自动检测此环境变量。如果未设置，应用将显示错误提示。
+
+---
+
+享受用最“愚蠢”的方式编写代码的乐趣吧！
